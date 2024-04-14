@@ -101,6 +101,9 @@ Here's how it will look like. Small supports can be added to support the bridgin
 # Z_Axis_LinearRailMount.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/z_axis_linearrailmount.png" width="600">
 
+This piece needs a little support organic supports so they don't mar up the lower section of the bearing bore, you can paint it like this:
+<img src="/Media/docs/Print-Info/z_axis_linearrailmount-painted_support.png" width="600">
+
 # Z_Axis_MotorMount.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/z_axis_motormount.png" width="600">
 
